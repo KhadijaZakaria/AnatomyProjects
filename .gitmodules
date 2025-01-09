@@ -1,6 +1,3 @@
-[submodule "Anatomy_Projects/Organpuzzle"]
-	path = Anatomy_Projects/Organpuzzle
-	url = https://github.com/BasselShaheen06/OrganPuzzle.git
 [submodule "MPRViewer"]
 	path = MPRViewer
 	url = https://github.com/BasselShaheen06/MPR_Viewer.git
