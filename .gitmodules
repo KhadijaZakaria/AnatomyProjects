@@ -4,21 +4,9 @@
 [submodule "OrgoVision"]
 	path = OrgoVision
 	url = https://github.com/BasselShaheen06/OrgoVision.git
-[submodule "YoloTrack"]
-	path = YoloTrack
-	url = https://github.com/BasselShaheen06/YoloTrack.git
 [submodule "NOPIS"]
 	path = NOPIS
 	url = https://github.com/BasselShaheen06/Research_Proposal.git
-[submodule "MediPixel"]
-	path = MediPixel
-	url = https://github.com/BasselShaheen06/MediPixel.git
-[submodule "OrganPuzzleGame"]
-	path = OrganPuzzleGame
-	url = https://github.com/AbdelMoety/Organ-Puzzle-Game.git
-[submodule "DicomShow"]
-	path = DicomShow
-	url = https://github.com/AbdelMoety/DICOM-Viewer.git
 [submodule "NOPIS_Proposal"]
 	path = NOPIS_Proposal
 	url = https://github.com/BasselShaheen06/Research_Proposal.git
