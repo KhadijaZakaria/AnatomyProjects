@@ -1,7 +1,7 @@
 
 # Anatomy Projects
 
-Welcome to the **Anatomy Projects** repository, a collection of diverse projects developed by **Bassel Shaheen**, **Ahmed AbdelMo3ty**, **Aya Emad**, **Khadija Zakareya**. This repository showcases my work on **AI-based models**, **game development**, **medical image processing**, **Dealing with Dicom files** and **innovative research** in anatomy-related fields. Below you'll find the different projects included in this repository.
+Welcome to the **Anatomy Projects** repository, a collection of diverse projects developed by **Bassel Shaheen**, **Ahmed AbdelMo3ty**, **Aya Emad**, **Khadija Zakaria**. This repository showcases my work on **AI-based models**, **game development**, **medical image processing**, **Dealing with Dicom files** and **innovative research** in anatomy-related fields. Below you'll find the different projects included in this repository.
 
 ## 📚 Projects
 
