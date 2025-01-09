@@ -22,9 +22,3 @@
 [submodule "NOPIS_Proposal"]
 	path = NOPIS_Proposal
 	url = https://github.com/BasselShaheen06/Research_Proposal.git
-[submodule "Medi_Pixel"]
-	path = Medi_Pixel
-	url = https://github.com/BasselShaheen06/MediPixel.git
-[submodule "Yolo_Track"]
-	path = Yolo_Track
-	url = https://github.com/BasselShaheen06/YoloTrack.git
