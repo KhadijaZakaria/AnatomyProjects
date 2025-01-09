@@ -19,3 +19,6 @@
 [submodule "DicomShow"]
 	path = DicomShow
 	url = https://github.com/AbdelMoety/DICOM-Viewer.git
+[submodule "NOPIS_Proposal"]
+	path = NOPIS_Proposal
+	url = https://github.com/BasselShaheen06/Research_Proposal.git
