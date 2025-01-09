@@ -1,0 +1,15 @@
+[submodule "Anatomy_Projects/Organpuzzle"]
+	path = Anatomy_Projects/Organpuzzle
+	url = https://github.com/BasselShaheen06/OrganPuzzle.git
+[submodule "MPRViewer"]
+	path = MPRViewer
+	url = https://github.com/BasselShaheen06/MPR_Viewer.git
+[submodule "OrgoVision"]
+	path = OrgoVision
+	url = https://github.com/BasselShaheen06/OrgoVision.git
+[submodule "YoloTrack"]
+	path = YoloTrack
+	url = https://github.com/Aya423/Anatomy.git
+[submodule "NOPIS"]
+	path = NOPIS
+	url = https://github.com/BasselShaheen06/Research_Proposal.git
