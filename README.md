@@ -1,7 +1,7 @@
 
 # Anatomy Projects
 
-Welcome to the **Anatomy Projects** repository, a collection of diverse projects developed by **Bassel Shaheen**, **Ahmed AbdelMo3ty**, **Aya Emad**, **Khadija Zakareya**. This repository showcases my work on **AI-based models**, **game development**, **medical image processing**, and **innovative research** in anatomy-related fields. Below you'll find the different projects included in this repository.
+Welcome to the **Anatomy Projects** repository, a collection of diverse projects developed by **Bassel Shaheen**, **Ahmed AbdelMo3ty**, **Aya Emad**, **Khadija Zakareya**. This repository showcases my work on **AI-based models**, **game development**, **medical image processing**, **Dealing with Dicom files** and **innovative research** in anatomy-related fields. Below you'll find the different projects included in this repository.
 
 ## 📚 Projects
 
@@ -22,6 +22,9 @@ A **MRI scan viewer** for **NIFTI files**, featuring various diagnostic tools an
 
 ### 🖼️ [MediPixel](MediPixel)
 An **image processing application** that allows denoising, adding artificial noise, and adjusting various parameters like resolution and field of view.
+
+### 🖥️ [DicomShow](DicomShow)
+A **DICOM file viewer** built using **PyQt5** and **VTK**, designed to provide an interactive and straightforward interface for viewing **DICOM images**. This viewer allows users to adjust window leveling, zoom, and scroll through image slices, making it a useful tool for medical professionals.
 
 ## 🛠️ Technologies Used
 
@@ -152,6 +155,28 @@ A comprehensive **image processing tool** for denoising, adding noise, and adjus
    python Medical_Image_Viewer.py 
    ```
 
+---
+
+### 🖥️ [DICOMShow](Dicomshow)
+
+A **DICOM file viewer** built using **PyQt5** and **VTK**, designed to provide an interactive and straightforward interface for viewing **DICOM images**. This viewer allows users to adjust window leveling, zoom, and scroll through image slices, making it a useful tool for medical professionals.
+
+#### Features:
+- Window leveling for DICOM images
+- Interactive scroll through image slices
+- Simple, intuitive UI for viewing medical images
+
+#### Getting Started:
+1. Navigate to `DicomShow` directory.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Open and view your DICOM image:
+   ```bash
+   python DICOM_Viewer.py  --make sure to load a dicom file
+   ```
 ---
 
 ## ✍️ Contributing

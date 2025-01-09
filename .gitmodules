@@ -16,3 +16,6 @@
 [submodule "OrganPuzzleGame"]
 	path = OrganPuzzleGame
 	url = https://github.com/AbdelMoety/Organ-Puzzle-Game.git
+[submodule "DicomShow"]
+	path = DicomShow
+	url = https://github.com/AbdelMoety/DICOM-Viewer.git
