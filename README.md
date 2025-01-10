@@ -11,7 +11,7 @@ A **Unity-based puzzle game** designed to help players learn about the human **l
 ### 🤖 [YoloTrack](YoloTrack)
 An **AI-powered player tracking model** that assigns unique IDs to players, generates heatmaps, and converts camera views into a **2D planar view**.
 
-### 🧠 [OrgoVision]https://github.com/BasselShaheen06/OrgoVision)
+### 🧠 [OrgoVision](https://github.com/BasselShaheen06/OrgoVision)
 An **organ classification model** built using **LeNet architecture** to identify various human organs from images.
 
 ### 🧬 [NOPIS](NOPIS)
