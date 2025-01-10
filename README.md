@@ -8,7 +8,7 @@ Welcome to the **Anatomy Projects** repository, a collection of diverse projects
 ### 🎮 [OrganPuzzleGame](OrganPuzzleGame)
 A **Unity-based puzzle game** designed to help players learn about the human **larynx** and other organs through interactive gameplay.
 
-### 🤖 [YoloTrack](YoloTrack)
+### 🤖 [YoloTrack](https://github.com/BasselShaheen06/YoloTrack)
 An **AI-powered player tracking model** that assigns unique IDs to players, generates heatmaps, and converts camera views into a **2D planar view**.
 
 ### 🧠 [OrgoVision](https://github.com/BasselShaheen06/OrgoVision)
