@@ -17,7 +17,7 @@ An **organ classification model** built using **LeNet architecture** to identify
 ### 🧬 [NOPIS](NOPIS)
 A **research proposal** for a new **imaging modality** that aims to improve anatomical visualization in medical imaging.
 
-### 🧪 [MPRViewer](MPRViewer)
+### 🧪 [MPRViewer](https://github.com/BasselShaheen06/MPR_Viewer)
 A **MRI scan viewer** for **NIFTI files**, featuring various diagnostic tools and a simple, clean user interface.
 
 ### 🖼️ [MediPixel](MediPixel)
