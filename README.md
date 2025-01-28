@@ -5,25 +5,25 @@ Welcome to the **Anatomy Projects** repository, a collection of diverse projects
 
 ## 📚 Projects
 
-### 🎮 [OrganPuzzleGame](OrganPuzzleGame)
+### 🎮 [OrganPuzzleGame](https://github.com/BasselShaheen06/OrganPuzzleGame)
 A **Unity-based puzzle game** designed to help players learn about the human **larynx** and other organs through interactive gameplay.
 
-### 🤖 [YoloTrack](YoloTrack)
+### 🤖 [YoloTrack](https://github.com/BasselShaheen06/YoloTrack)
 An **AI-powered player tracking model** that assigns unique IDs to players, generates heatmaps, and converts camera views into a **2D planar view**.
 
-### 🧠 [OrgoVision](OrgoVision)
+### 🧠 [OrgoVision](https://github.com/BasselShaheen06/OrgoVision)
 An **organ classification model** built using **LeNet architecture** to identify various human organs from images.
 
-### 🧬 [NOPIS](NOPIS)
+### 🧬 [NOPIS](https://github.com/BasselShaheen06/Research_Proposal)
 A **research proposal** for a new **imaging modality** that aims to improve anatomical visualization in medical imaging.
 
-### 🧪 [MPRViewer](MPRViewer)
+### 🧪 [MPRViewer](https://github.com/BasselShaheen06/MPR_Viewer)
 A **MRI scan viewer** for **NIFTI files**, featuring various diagnostic tools and a simple, clean user interface.
 
-### 🖼️ [MediPixel](MediPixel)
+### 🖼️ [MediPixel](https://github.com/BasselShaheen06/MediPixel)
 An **image processing application** that allows denoising, adding artificial noise, and adjusting various parameters like resolution and field of view.
 
-### 🖥️ [DicomShow](DicomShow)
+### 🖥️ [DicomShow](https://github.com/BasselShaheen06/DicomShow)
 A **DICOM file viewer** built using **PyQt5** and **VTK**, designed to provide an interactive and straightforward interface for viewing **DICOM images**. This viewer allows users to adjust window leveling, zoom, and scroll through image slices, making it a useful tool for medical professionals.
 
 ## 🛠️ Technologies Used
