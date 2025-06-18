@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+Pillow==9.5.0
+pydicom==2.4.1
+numpy==1.25.0
+matplotlib==3.7.2
+pyqtgraph==0.13.2
+ttkthemes==3.2.0
+nibabel==5.2.0
